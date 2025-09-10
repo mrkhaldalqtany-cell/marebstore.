@@ -1,1 +1,54 @@
-
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "الإلكترونيات",
+      "image": "https://via.placeholder.com/150x150.png?text=Electronics"
+    },
+    {
+      "id": "2",
+      "name": "الملابس",
+      "image": "https://via.placeholder.com/150x150.png?text=Clothes"
+    },
+    {
+      "id": "3",
+      "name": "المنزل والمطبخ",
+      "image": "https://via.placeholder.com/150x150.png?text=Home+%26+Kitchen"
+    },
+    {
+      "id": "4",
+      "name": "الصحة والعناية",
+      "image": "https://via.placeholder.com/150x150.png?text=Health+%26+Care"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "price": 999,
+      "image": "https://via.placeholder.com/300x300.png?text=iPhone+14",
+      "description": "أحدث إصدار من iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Samsung TV",
+      "price": 550,
+      "image": "https://via.placeholder.com/300x300.png?text=Samsung+TV",
+      "description": "شاشة ذكية عالية الدقة"
+    },
+    {
+      "id": "3",
+      "name": "T-Shirt",
+      "price": 25,
+      "image": "https://via.placeholder.com/300x300.png?text=T-Shirt",
+      "description": "تي شيرت قطني مريح"
+    },
+    {
+      "id": "4",
+      "name": "Microwave",
+      "price": 120,
+      "image": "https://via.placeholder.com/300x300.png?text=Microwave",
+      "description": "ميكروويف حديث مع برامج طهي متعددة"
+    }
+  ]
+}
